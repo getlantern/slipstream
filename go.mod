@@ -1,6 +1,6 @@
 module github.com/getlantern/lantern/slipstream
 
-go 1.21
+go 1.23.0
 
 require (
 	github.com/miekg/dns v1.1.58
@@ -15,10 +15,10 @@ require (
 	github.com/onsi/ginkgo/v2 v2.12.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	go.uber.org/mock v0.4.0 // indirect
-	golang.org/x/crypto v0.18.0 // indirect
+	golang.org/x/crypto v0.36.0 // indirect
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63 // indirect
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
 )
